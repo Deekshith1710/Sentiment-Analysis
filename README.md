@@ -2,6 +2,7 @@
 This project performs sentiment analysis on textual data using machine learning techniques. It aims to classify text (such as reviews, tweets, or comments) into sentiment categories like positive, negative, or neutral.
 
 Features
+
 Preprocessing of text data (tokenization, stop word removal, stemming/lemmatization)
 
 Vectorization using TF-IDF or CountVectorizer
